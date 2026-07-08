@@ -6,3 +6,5 @@ function denemeFonksiyonu(){
 }
 
 denemeFonksiyonu();
+denemeFonksiyonu();
+
