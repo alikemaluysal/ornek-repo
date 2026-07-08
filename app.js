@@ -1,4 +1,4 @@
-const isim = "enes";
+const isim = "abdurrahman";
 
 
 function denemeFonksiyonu(){
